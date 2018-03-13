@@ -16,7 +16,7 @@ Contained in the dataset folder are **6 JSON** files:
 - checkin.json
 
 ## Research Questions and Purpose:
-After exploring the datasets, we ultimately chose the **business.josn** file to focus our analysis on. This file contains business data including location data, attributes, and categories. We chose this because many different features pertaining to each business could be useful. For instance, attributes such as location, wheelchair accessbility, happy hours, and parking could be useful in predicting businesses' **ratings (1-5 stars)**. Some questions we have considered are:
+After exploring the datasets, we ultimately chose the **business.json** file to focus our analysis on. This file contains business data including location data, attributes, and categories. We chose this because many different features pertaining to each business could be useful. For instance, attributes such as location, wheelchair accessbility, happy hours, and parking could be useful in predicting businesses' **ratings (1-5 stars)**. Some questions we have considered are:
 - Do the number or type of service offered by businesses affect rating?
 - Can we predict the ratings of businesses from different attributes?
 - What attributes contribute the most to rating?
